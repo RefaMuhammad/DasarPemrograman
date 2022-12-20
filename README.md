@@ -8,7 +8,7 @@
 Aku cinta mata kuliah fisdas 
 
 ## Source Code
-#include <iostream>
+<script src="https://gist.github.com/RefaMuhammad/58126fed1afd13e813e90bd564401991.js">#include <iostream>
 
 using namespace std;
 
@@ -28,6 +28,8 @@ int main(){
 		}
 	}
 	cout<<"========================================================="<<endl;
+	
+	
 	cout<<"========================================================="<<endl;
 	//output array
 	cout<<"Isi array :"<<endl;
@@ -61,6 +63,8 @@ int main(){
 	}
 	cout<<"========================================================="<<endl;
 }
+	
+</script>
 		
 ## Output
 <img src="Output1.png"/>
