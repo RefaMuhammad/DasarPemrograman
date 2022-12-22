@@ -5,7 +5,7 @@
 <br>Jurusan		:[Teknik Informatika](http://if.uinsgd.ac.id/) [UIN Sunan Gunung Djati Bandung](https://uinsgd.ac.id/) 
 
 ## Deskripsi Umum
-Aku cinta mata kuliah fisdas 
+For the final exam of semester one basic programming course is told to create a 2-dimensional C++ array program with many rows and columns of the array input, fill in the array in the input, the array in the transpose, after that display the number of numbers that are exhausted in divide 3, 5, and 7.
 
 ## Source Code
 ```
